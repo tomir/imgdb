@@ -1,0 +1,82 @@
+#videos .tab-content {
+	padding-top: 7px;
+}
+
+#videos	.active .report {
+	display: inline-block;
+}
+
+#videos	.report {
+	display: none;
+	color: #D82123;
+	padding-left: 5px;
+}
+
+#videos .report:hover {
+	cursor: pointer;
+}
+
+#trailer-mask:hover {
+	cursor: initial !important;
+}
+
+#stream-modal .modal-body {
+	padding: 0;
+	background: #F2F2F3;
+}
+
+#stream-modal .modal-content {
+	line-height: 0;
+}
+
+#stream-modal .modal-content .nav-tabs {
+	padding: 0 15px;
+	margin-top: 0;
+}
+
+#stream-modal .modal-content .tab-content {
+	padding-top: 0;
+}
+
+#actions-row {
+	padding: 3px;
+	margin: 0 0 10px 0;
+	border: 1px solid #dddddd;
+}
+
+#title-page > .container #social {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+#title-page .media-heading {
+	margin-top: 20px !important;
+}
+
+#actions-row .col-sm-4, #actions-row .col-sm-3 {
+	padding: 0;
+}
+
+#actions-row #lists {
+	text-align: right;
+}
+
+#actions-row #status {
+	padding-top: 7px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.status {
+	position: absolute;
+	top: 0;
+	background: #40A088;
+	color: #fff;
+	padding: 5px;
+}
+
+.checkbox {
+	margin: -25px 10px 40px 10px;
+	color: darken(#999999, 10%);
+}

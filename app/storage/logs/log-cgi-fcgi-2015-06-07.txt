@@ -1,0 +1,4 @@
+[2015-06-07 07:11:37] production.ERROR: http://filmsite.esy.es/movies/1988,transformers,dark,of,the,moon     -     exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 34212 bytes)' in /home/u274879528/public_html/vendor/intervention/image/src/Intervention/Image/Image.php:1965
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<?php $__env->startSection('htmltag'); ?>
+    <html>
+<?php echo $__env->yieldSection(); ?>
+
+    <head>
+
+        <?php $__env->startSection('title'); ?>
+            <title><?php echo $options->getSiteName(); ?></title>
+        <?php echo $__env->yieldSection(); ?>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <?php $__env->startSection('meta'); ?>
+            <meta name="title" content="<?php echo $options->getMetaTitle(); ?>">
+            <meta name="description" content="<?php echo $options->getSiteDescription(); ?>">
+            <meta name="keywords" content="<?php echo $options->getMainSiteKeywords(); ?>">
+            <meta property="og:url" content="<?php echo Request::url(); ?>"/>
+        <?php echo $__env->yieldSection(); ?>
+
+        <?php $__env->startSection('assets'); ?>
+            <link rel="shortcut icon" href="<?php echo e(asset('assets/images/favicon.ico')); ?>">
+            <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
+            <link href='http://fonts.googleapis.com/css?family=Bitter:700' rel='stylesheet' type='text/css'>
+
+            <?php echo HTML::style('assets/css/styles.css?v7'); ?>
+            <?php echo Hooks::renderCss(); ?>
+        <?php echo $__env->yieldSection(); ?>
+
+    </head>
+
+  
+    <?php $__env->startSection('bodytag'); ?>
+        <body>
+    <?php echo $__env->yieldSection(); ?>
+
+    <?php $__env->startSection('nav'); ?>
+        <?php echo $__env->make('Partials.Navbar', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+    <?php echo $__env->yieldSection(); ?>
+
+    <?php echo $__env->yieldContent('content'); ?>
+
+    <?php $__env->startSection('ads'); ?>
+        <?php if ($ad = $options->getFooterAd()): ?>
+            <div id="ad"><?php echo $ad; ?></div>
+        <?php endif; ?>
+    <?php echo $__env->yieldSection(); ?>
+
+    <?php $__env->startSection('footer'); ?>
+        <footer id="footer">
+            <section id="top" class="clearfix">
+
+                <div class="col-sm-11 col-md-8 col-sm-offset-1 col-md-offset-3 col-lg-offset-4">
+                    <div class="footer-heading clearfix hidden-xs">
+                            <a href="<?php echo route('home'); ?>">
+                                <img src="<?php echo $options->getLogo(); ?>">
+                            </a>    
+                        <h2 class="col-md-9 col-sm-8"> - <?php echo trans('main.footerSlogan'); ?></h2>
+                    </div>
+                    
+                    <section id="index">
+                        <ul class="list-inline list-unstyled">
+                            <li><a href="<?php echo url('feed/'.Str::slug(trans('main.newAndUpcoming'))); ?>"><?php echo trans('main.moviesFeed'); ?></a></li>
+                            <li><a href="<?php echo url('feed/'.Str::slug(trans('main.news'))); ?>"><?php echo trans('main.newsFeed'); ?></a></li>
+                            <li><a href="<?php echo url(Str::slug(trans('main.people'))); ?>"><?php echo trans('main.people-menu'); ?></a></li>
+                            <li><a href="<?php echo route('series.index'); ?>"><?php echo trans('main.series-menu'); ?></a></li>
+                            <li><a href="<?php echo route('movies.index'); ?>"><?php echo trans('main.movies-menu'); ?></a></li>                       
+                            <li><a href="<?php echo url(Str::slug(trans('main.news'))); ?>"><?php echo trans('main.news-menu'); ?></a></li>
+                            
+                        </ul>
+                    </section>
+                    
+                    <div class="home-social">
+                        <ul class="list-unstyled list-inline social-icons">
+                            <?php if ($yurl = $options->getYoutube()): ?>
+                                <li><a href="<?php echo $yurl; ?>"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa fa-youtube fa-stack-1x fa-inverse"></i></span> </a></li>
+                            <?php endif; ?>
+                            <?php if ($furl = $options->getFb()): ?>
+                                <li><a href="<?php echo $furl; ?>"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa fa-facebook fa-stack-1x fa-inverse"></i></span> </a></li>
+                            <?php endif; ?>
+                            <?php if ($turl = $options->getTw()): ?>
+                                <li><a href="<?php echo $turl; ?>"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa fa-twitter fa-stack-1x fa-inverse"></i></span> </a></li>
+                            <?php endif; ?>
+                            <?php if ($gurl = $options->getGoogle()): ?>
+                                <li><a href="<?php echo $gurl; ?>"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa fa-google-plus fa-stack-1x fa-inverse"></i></span> </a></li>
+                            <?php endif; ?>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            <section id="bottom" class="clearfix">
+                <div class="col-sm-6" id="copyright"><?php echo trans('main.copyright'); ?> &#169; <span class="brand"><?php echo $options->getSiteName(); ?></span> <?php echo Carbon\Carbon::now()->year; ?></div>
+                <ul id="legal" class="list-inline list-unstyled col-sm-6">
+                    <li><a href="<?php echo route('privacy'); ?>"><?php echo trans('main.privacy'); ?></a> | </li>
+                    <li><a href="<?php echo route('tos'); ?>"><?php echo trans('main.tos'); ?></a> | </li>
+                    <li><a href="<?php echo route('contact'); ?>"><?php echo trans('main.contact'); ?></a></li>
+                </ul>
+            </section>
+        </footer>
+    <?php echo $__env->yieldSection(); ?>
+
+    <script>
+        var vars = {
+            trans: {
+                working: '<?php echo trans("dash.working"); ?>',
+                error:   '<?php echo trans("dash.somethingWrong"); ?>',
+                movie:'<?php echo strtolower(trans("main.movies")); ?>',
+                series: '<?php echo strtolower(trans("main.series")); ?>',
+                news: '<?php echo strtolower(trans("main.news")); ?>',
+                prev: '<?php echo trans("dash.prev"); ?>',
+                next: '<?php echo trans("dash.next"); ?>',
+                search: '<?php echo trans("main.search"); ?>',
+                more: '<?php echo trans("main.more"); ?>',
+                less: '<?php echo trans("main.less"); ?>'
+            },
+            urls: {
+                baseUrl: '<?php echo url(); ?>'
+            },
+            token: '<?php echo Session::get("_token"); ?>'
+        };
+    </script>
+
+    <?php echo HTML::script('assets/js/min/scripts.min.js'); ?>
+    <?php echo Hooks::renderScripts(); ?>
+
+    <script>ko.applyBindings(app.viewModels.autocomplete, $('.navbar')[0]);</script>
+
+    <?php echo $__env->yieldContent('scripts'); ?>
+  
+    <?php if ($options->getAnalytics()): ?>
+        <?php echo $options->getAnalytics(); ?>
+    <?php endif; ?>
+
+  </body>
+</html>

@@ -1,0 +1,666 @@
+1436704488s:51992:"<section class="content" data-bind="playVideos">
+					<div class="jumbotron">
+    <div id="slider" class="sl-slider-wrapper" data-bind="slider">
+
+        <div class="sl-slider">
+        
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/original/9maldNxAaXzBVgid64uWH8rwFuu.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmsite.esy.es/movies/93-edge-of-tomorrow">Edge of Tomorrow</a></h2>
+                            <p>An officer finds himself caught in a time loop in a war with an alien race. His skills increase as he faces the same brutal combat scenarios, and his union with a Special Forces warrior gets him closer and closer to defeating the enemy.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Doug Liman</li>
+                                                                                                    <li><strong>Stars</strong>Emily Blunt, Tom Cruise, Bill Paxton</li>
+                                                                                                    <li><strong>Genre</strong>Action, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/yUmSVcttXnI" data-poster="http://image.tmdb.org/t/p/w300/l6fmu8Xg2eH3t39vrRIBIVsrR8U.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/l6fmu8Xg2eH3t39vrRIBIVsrR8U.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/5EQWRuCHkn7qGZytyBjv2lc9I4V.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Godzilla</a></h2>
+                            <p>Fifteen years after an 'incident' at a Japanese nuclear power plant, physicist Joe Brody joins forces with his soldier son Ford to discover for themselves what really happened. What they uncover is prelude to global-threatening devastation. An epic rebirth to Toho's iconic Godzilla, this spectacular adventure pits the world's most famous monster against malevolent creatures who, bolstered by humanity's scientific arrogance, threaten our very existence.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Gareth Edwards</li>
+                                                                                                    <li><strong>Stars</strong>Bryan Cranston, Elizabeth Olsen, Aaron Taylor-Johnson</li>
+                                                                                                    <li><strong>Genre</strong>Action, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/vIu85WQTPRc" data-poster="http://image.tmdb.org/t/p/w300/eItZGFWPqkogH0u6qYPuGx9yiZU.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/eItZGFWPqkogH0u6qYPuGx9yiZU.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/lhqss3NDnhy3XIPng7ylqwYniXR.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Transformers: Age of Extinction</a></h2>
+                            <p>Fourth part of the Transformers series, which starts a new main characters changing history.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Michael Bay</li>
+                                                                                                    <li><strong>Stars</strong>Nicola Peltz, Mark Wahlberg, Stanley Tucci</li>
+                                                                                                    <li><strong>Genre</strong>Action, Adventure, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/ubGpDoyJvmI" data-poster="http://image.tmdb.org/t/p/w300/kHqhNH7OvCXhagug4ed0ETasBWC.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/kHqhNH7OvCXhagug4ed0ETasBWC.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/qrrkmt3erZJeRTFAKAgd3Z2b4hw.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Dawn of the Planet of the Apes</a></h2>
+                            <p>A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Matt Reeves</li>
+                                                                                                    <li><strong>Stars</strong>Andy Serkis, Judy Greer, Terry Notary</li>
+                                                                                                    <li><strong>Genre</strong>Action, Drama, Science Fiction, Thriller</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/rf5e7Xc1Hwk" data-poster="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVfG4IGcyA1cId5l.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVfG4IGcyA1cId5l.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/original/9maldNxAaXzBVgid64uWH8rwFuu.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Edge of Tomorrow</a></h2>
+                            <p>An officer finds himself caught in a time loop in a war with an alien race. His skills increase as he faces the same brutal combat scenarios, and his union with a Special Forces warrior gets him closer and closer to defeating the enemy.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Doug Liman</li>
+                                                                                                    <li><strong>Stars</strong>Emily Blunt, Tom Cruise, Bill Paxton</li>
+                                                                                                    <li><strong>Genre</strong>Action, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/yUmSVcttXnI" data-poster="http://image.tmdb.org/t/p/w300/l6fmu8Xg2eH3t39vrRIBIVsrR8U.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/l6fmu8Xg2eH3t39vrRIBIVsrR8U.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/5EQWRuCHkn7qGZytyBjv2lc9I4V.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Godzilla</a></h2>
+                            <p>Fifteen years after an 'incident' at a Japanese nuclear power plant, physicist Joe Brody joins forces with his soldier son Ford to discover for themselves what really happened. What they uncover is prelude to global-threatening devastation. An epic rebirth to Toho's iconic Godzilla, this spectacular adventure pits the world's most famous monster against malevolent creatures who, bolstered by humanity's scientific arrogance, threaten our very existence.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Gareth Edwards</li>
+                                                                                                    <li><strong>Stars</strong>Bryan Cranston, Elizabeth Olsen, Aaron Taylor-Johnson</li>
+                                                                                                    <li><strong>Genre</strong>Action, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/vIu85WQTPRc" data-poster="http://image.tmdb.org/t/p/w300/eItZGFWPqkogH0u6qYPuGx9yiZU.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/eItZGFWPqkogH0u6qYPuGx9yiZU.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/lhqss3NDnhy3XIPng7ylqwYniXR.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Transformers: Age of Extinction</a></h2>
+                            <p>Fourth part of the Transformers series, which starts a new main characters changing history.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Michael Bay</li>
+                                                                                                    <li><strong>Stars</strong>Nicola Peltz, Mark Wahlberg, Stanley Tucci</li>
+                                                                                                    <li><strong>Genre</strong>Action, Adventure, Science Fiction</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/ubGpDoyJvmI" data-poster="http://image.tmdb.org/t/p/w300/kHqhNH7OvCXhagug4ed0ETasBWC.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/kHqhNH7OvCXhagug4ed0ETasBWC.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                            
+                <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                    <div class="sl-slide-inner">
+                        <div class="bg-img" style="background: url('http://image.tmdb.org/t/p/w780/qrrkmt3erZJeRTFAKAgd3Z2b4hw.jpg')"><div class="overlay"></div></div>
+                        
+                        <section class="pull-left details-column">
+                            <h2><a href="http://filmy.local">Dawn of the Planet of the Apes</a></h2>
+                            <p>A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.</p>
+                            <ul class="slider-details list-unstyled">
+                                                                    <li><strong>Directed By</strong>Matt Reeves</li>
+                                                                                                    <li><strong>Stars</strong>Andy Serkis, Judy Greer, Terry Notary</li>
+                                                                                                    <li><strong>Genre</strong>Action, Drama, Science Fiction, Thriller</li>
+                                                                                            </ul>
+                        </section>
+
+                                                    <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/rf5e7Xc1Hwk" data-poster="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVfG4IGcyA1cId5l.jpg">
+                                <img src="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVfG4IGcyA1cId5l.jpg" class="img-responsive">
+                                <div class="overlay"></div>
+                                <div class="center"><img src="http://filmy.local/assets/images/play.png"> </div>
+                            </div>
+                                            </div>
+                </div>
+
+                        
+            <nav id="nav-arrows" class="nav-arrows">
+                <span class="nav-arrow-prev">main.prev</span>
+                <span class="nav-arrow-next">main.next</span>
+            </nav>  
+
+            <nav id="nav-dots" class="nav-dots">
+                                                            <span class="nav-dot-current"></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                                                <span></span>
+                                                </nav>
+
+        </div>
+    </div>
+</div>		
+    <div class="container ">
+
+		            <div id="ad">reklama 3 slot trzeci z gory</div>
+        
+    	
+		<!-- latest news-->
+			<div class="col-sm-9" id="news-container">
+				<div style="border: 1px solid #c3c3c3; padding: 15px;">
+					<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i> hot news</h2>
+
+					<ul class="list-unstyled">
+						
+							
+							<li>
+								<figure class="pretty-figure" style="height: 82px; margin-bottom: 0px">
+									<div style="float:left; padding: 0;" class="col-sm-3">
+										<a href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3"><img style="height: 82px" src="http://1.fwcdn.pl/an/49468/70226_1.10.jpg" alt="Director of 'Survival' behind the camera 'Bad Boys 3'?" class="img-responsive"></a>
+									</div>
+									<div style="float:left; padding: 0;" class="col-sm-9">
+										<figcaption style="text-align: left; white-space: normal; height: 82px; max-height: 82px; line-height: 15px;">
+											<a style="color: #00a2e8"; href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3">Director of 'Survival' behind the camera 'Bad Boys 3'?</a>
+											<br /><span style="font-weight: normal; font-size: 11px">As reported by the portal Coming Soon, in Sony are continuing to work on the third part of the &quot;Bad Boys.&quot; Because Michael Bay does not sit on the bench again the director, the record company wanted to replace him Joe Carnahan (&quot;The A-Team,&quot; &quot;Survival&quo...... 	<a style="color: #00a2e8"; href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3">see more</a></span>
+										</figcaption>
+									</div>
+								</figure>
+							</li>
+						
+							
+							<li>
+								<figure class="pretty-figure" style="height: 82px; margin-bottom: 0px">
+									<div style="float:left; padding: 0;" class="col-sm-3">
+										<a href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich"><img style="height: 82px" src="http://milkthefranchise.com/wp-content/uploads/Article%20Graphics/Jason-statham.jpg" alt="Jason Statham krytycznie o filmach superbohaterskich" class="img-responsive"></a>
+									</div>
+									<div style="float:left; padding: 0;" class="col-sm-9">
+										<figcaption style="text-align: left; white-space: normal; height: 82px; max-height: 82px; line-height: 15px;">
+											<a style="color: #00a2e8"; href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich">Jason Statham krytycznie o filmach superbohaterskich</a>
+											<br /><span style="font-weight: normal; font-size: 11px">Jason Statham&nbsp;nie będzie miał łatwego życia ani z fanami filmowego uniwersum Marvela, ani z decydentami z Marvel Studios. Ostatnio pojawiły się informacje, że studio chce zatrudnić aktora w roli czarnego charakteru, Bullseye&#39;a, w kolejnym sezonie serialu&nbsp;&qu...... 	<a style="color: #00a2e8"; href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich">see more</a></span>
+										</figcaption>
+									</div>
+								</figure>
+							</li>
+											</ul>
+				</div>
+			</div>
+			<!-- /latest news-->
+			
+			<div class="col-sm-3" style="padding-left: 0px; margin-bottom: 15px;">
+				<div style="padding: 15px; border: 1px solid #c3c3c3">
+					<img src="/assets/images/imgdb_onmobile.png" class="img-responsive">
+					<span style="font-size: 11px;">As reported by the portal Coming Soon, in Sony are continuing to work on the third part of the "Bad Boys." Because Michael Bay does not sit on the bench again </span>
+				</div>
+			</div>
+		
+		<div class="col-sm-12">
+			
+																		<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+						<section class="row  title-sizes" style="padding: 0 50px">
+							<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Top Movies / Tv Series</h2>
+
+							
+														<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
+
+																							<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/series/54,jericho">Jericho</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
+
+																							<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
+											
+										</div>
+										<figcaption class="no-rating">
+											<a href="http://filmy.local/series/647,conan">Conan</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
+
+																							<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
+											
+										</div>
+										<figcaption class="no-rating">
+											<a href="http://filmy.local/movies/1728,faster">Faster</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1399103.jpg">
+
+																							<a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon"><img src="http://filmy.local/imdb/posters/tt1399103.jpg" alt="Transformers: Dark of the Moon" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon">Transformers: Dark of the Moon</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
+
+																							<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
+
+																							<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1160368.jpg">
+
+																							<a href="http://filmy.local/movies/3,12,rounds"><img src="http://filmy.local/imdb/posters/tt1160368.jpg" alt="12 Rounds" class="img-responsive"></a>
+											
+										</div>
+										<figcaption class="no-rating">
+											<a href="http://filmy.local/movies/3,12,rounds">12 Rounds</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt0419946.jpg">
+
+																							<a href="http://filmy.local/movies/126,the,marine"><img src="http://filmy.local/imdb/posters/tt0419946.jpg" alt="The Marine" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/126,the,marine">The Marine</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2167202.jpg">
+
+																							<a href="http://filmy.local/movies/895,getaway"><img src="http://filmy.local/imdb/posters/tt2167202.jpg" alt="Getaway" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/895,getaway">Getaway</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2891574.jpg">
+
+																							<a href="http://filmy.local/series/7,ballers"><img src="http://filmy.local/imdb/posters/tt2891574.jpg" alt="Ballers" class="img-responsive"></a>
+											
+										</div>
+										<figcaption class="no-rating">
+											<a href="http://filmy.local/series/7,ballers">Ballers</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="https://www.youtube.com/embed/lP-sUUUfamw" data-poster="http://filmy.local/imdb/bgs/135397movie.jpg">
+
+																							<a href="http://filmy.local/movies/1,jurassic,world"><img src="http://image.tmdb.org/t/p/w342/uXZYawqUsChGSj54wcuBtEdUJbh.jpg" alt="Jurassic World" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/1,jurassic,world">Jurassic World</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://prestujemy.pl/assets/images/cinema.jpg">
+
+																							<a href="http://filmy.local/movies/2434,mark,zuckerberg,inside,facebook"><img src="http://filmy.local/imdb/posters/115086movie.jpg" alt="Mark Zuckerberg: Inside Facebook" class="img-responsive"></a>
+											
+										</div>
+										<figcaption class="no-rating">
+											<a href="http://filmy.local/movies/2434,mark,zuckerberg,inside,facebook">Mark Zuckerberg: Inside Facebook</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2126355.jpg">
+
+																							<a href="http://filmy.local/movies/1076,san,andreas"><img src="http://filmy.local/imdb/posters/tt2126355.jpg" alt="San Andreas" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/1076,san,andreas">San Andreas</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1392190.jpg">
+
+																							<a href="http://filmy.local/movies/2,mad,max,fury,road"><img src="http://filmy.local/imdb/posters/tt1392190.jpg" alt="Mad Max: Fury Road" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/2,mad,max,fury,road">Mad Max: Fury Road</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0448157.jpg">
+
+																							<a href="http://filmy.local/movies/586,hancock"><img src="http://filmy.local/imdb/posters/tt0448157.jpg" alt="Hancock" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/586,hancock">Hancock</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
+
+																							<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/series/14,castle">Castle</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
+
+																							<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 263px;">
+										<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
+
+																							<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
+											
+										</div>
+										<figcaption >
+											<a href="http://filmy.local/movies/579,prometheus">Prometheus</a>
+
+																					</figcaption>
+									</figure>
+															</div>
+													</section>
+							</div>
+							
+											
+											
+											
+															<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+						<section class="row  title-sizes" style="padding: 0 50px">
+							<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Born Today</h2>
+
+								
+							<div class="slick" data-slick='{"slidesToShow": 9, "slidesToScroll": 9}'>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/16,charlize,theron"><img src="http://filmy.local/imdb/cast/nm0000234.jpg" alt="Charlize Theron" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Charlize Theron<br /><a href="http://filmy.local/people/16,charlize,theron">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/22,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Rosie Huntington-Whiteley<br /><a href="http://filmy.local/people/22,rosie,huntingtonwhiteley">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/61,pauley,perrette"><img src="http://filmy.local/imdb/cast/nm0005306.jpg" alt="Pauley Perrette" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Pauley Perrette<br /><a href="http://filmy.local/people/61,pauley,perrette">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/97,idris,elba"><img src="http://filmy.local/imdb/cast/17605movie.jpg" alt="Idris Elba" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Idris Elba<br /><a href="http://filmy.local/people/97,idris,elba">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/12,ty,simpkins"><img src="http://filmy.local/imdb/cast/17181movie.jpg" alt="Ty Simpkins" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ty Simpkins<br /><a href="http://filmy.local/people/12,ty,simpkins">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/14,katie,mcgrath"><img src="http://image.tmdb.org/t/p/w342/2oWeRVpm45kdx7uvhIEtcklOjkA.jpg" alt="Katie McGrath" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Katie McGrath<br /><a href="http://filmy.local/people/14,katie,mcgrath">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/30,john,cena"><img src="http://filmy.local/imdb/cast/nm1078479.jpg" alt="John Cena" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">John Cena<br /><a href="http://filmy.local/people/30,john,cena">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/32,ashley,scott"><img src="http://filmy.local/imdb/cast/nm1008709.jpg" alt="Ashley Scott" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ashley Scott<br /><a href="http://filmy.local/people/32,ashley,scott">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/36,taylor,cole"><img src="http://filmy.local/imdb/cast/nm1543157.jpg" alt="Taylor Cole" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Taylor Cole<br /><a href="http://filmy.local/people/36,taylor,cole">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/59,mark,harmon"><img src="http://filmy.local/imdb/cast/nm0001319.jpg" alt="Mark Harmon" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Mark Harmon<br /><a href="http://filmy.local/people/59,mark,harmon">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/89,hayley,marie,norman"><img src="http://filmy.local/imdb/cast/nm1190513.jpg" alt="Hayley Marie Norman" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Hayley Marie Norman<br /><a href="http://filmy.local/people/89,hayley,marie,norman">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/96,michael,fassbender"><img src="http://filmy.local/imdb/cast/17288movie.jpg" alt="Michael Fassbender" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Michael Fassbender<br /><a href="http://filmy.local/people/96,michael,fassbender">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/131,dwayne,johnson"><img src="http://filmy.local/imdb/cast/nm0425005.jpg" alt="Dwayne Johnson" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Dwayne Johnson<br /><a href="http://filmy.local/people/131,dwayne,johnson">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/139,anabelle,acosta"><img src="http://filmy.local/imdb/cast/nm4166320.jpg" alt="Anabelle Acosta" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Anabelle Acosta<br /><a href="http://filmy.local/people/139,anabelle,acosta">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/221,selena,gomez"><img src="http://filmy.local/imdb/cast/nm1411125.jpg" alt="Selena Gomez" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Selena Gomez<br /><a href="http://filmy.local/people/221,selena,gomez">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/236,alexandra,daddario"><img src="http://filmy.local/imdb/cast/nm1275259.jpg" alt="Alexandra Daddario" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Alexandra Daddario<br /><a href="http://filmy.local/people/236,alexandra,daddario">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/243,kylie,minogue"><img src="http://filmy.local/imdb/cast/nm0001541.jpg" alt="Kylie Minogue" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Kylie Minogue<br /><a href="http://filmy.local/people/243,kylie,minogue">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/264,tim,schaefer"><img src="http://filmy.local/assets/images/imdbnoimage.jpg" alt="Tim Schaefer" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Tim Schaefer<br /><a href="http://filmy.local/people/264,tim,schaefer">(33)</a></p>
+									</figure>
+															</div>
+							
+													</section>
+							</div>
+							
+											
+															<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+						<section class="row  title-sizes" style="padding: 0 50px">
+							<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Top Games</h2>
+
+								
+							<div class="slick" data-slick='{"slidesToShow": 9, "slidesToScroll": 9}'>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/16,charlize,theron"><img src="http://filmy.local/imdb/cast/nm0000234.jpg" alt="Charlize Theron" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Charlize Theron<br /><a href="http://filmy.local/people/16,charlize,theron">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/22,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Rosie Huntington-Whiteley<br /><a href="http://filmy.local/people/22,rosie,huntingtonwhiteley">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/61,pauley,perrette"><img src="http://filmy.local/imdb/cast/nm0005306.jpg" alt="Pauley Perrette" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Pauley Perrette<br /><a href="http://filmy.local/people/61,pauley,perrette">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/97,idris,elba"><img src="http://filmy.local/imdb/cast/17605movie.jpg" alt="Idris Elba" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Idris Elba<br /><a href="http://filmy.local/people/97,idris,elba">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/12,ty,simpkins"><img src="http://filmy.local/imdb/cast/17181movie.jpg" alt="Ty Simpkins" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ty Simpkins<br /><a href="http://filmy.local/people/12,ty,simpkins">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/14,katie,mcgrath"><img src="http://image.tmdb.org/t/p/w342/2oWeRVpm45kdx7uvhIEtcklOjkA.jpg" alt="Katie McGrath" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Katie McGrath<br /><a href="http://filmy.local/people/14,katie,mcgrath">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/30,john,cena"><img src="http://filmy.local/imdb/cast/nm1078479.jpg" alt="John Cena" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">John Cena<br /><a href="http://filmy.local/people/30,john,cena">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/32,ashley,scott"><img src="http://filmy.local/imdb/cast/nm1008709.jpg" alt="Ashley Scott" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ashley Scott<br /><a href="http://filmy.local/people/32,ashley,scott">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/36,taylor,cole"><img src="http://filmy.local/imdb/cast/nm1543157.jpg" alt="Taylor Cole" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Taylor Cole<br /><a href="http://filmy.local/people/36,taylor,cole">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/59,mark,harmon"><img src="http://filmy.local/imdb/cast/nm0001319.jpg" alt="Mark Harmon" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Mark Harmon<br /><a href="http://filmy.local/people/59,mark,harmon">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/89,hayley,marie,norman"><img src="http://filmy.local/imdb/cast/nm1190513.jpg" alt="Hayley Marie Norman" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Hayley Marie Norman<br /><a href="http://filmy.local/people/89,hayley,marie,norman">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/96,michael,fassbender"><img src="http://filmy.local/imdb/cast/17288movie.jpg" alt="Michael Fassbender" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Michael Fassbender<br /><a href="http://filmy.local/people/96,michael,fassbender">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/131,dwayne,johnson"><img src="http://filmy.local/imdb/cast/nm0425005.jpg" alt="Dwayne Johnson" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Dwayne Johnson<br /><a href="http://filmy.local/people/131,dwayne,johnson">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/139,anabelle,acosta"><img src="http://filmy.local/imdb/cast/nm4166320.jpg" alt="Anabelle Acosta" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Anabelle Acosta<br /><a href="http://filmy.local/people/139,anabelle,acosta">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/221,selena,gomez"><img src="http://filmy.local/imdb/cast/nm1411125.jpg" alt="Selena Gomez" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Selena Gomez<br /><a href="http://filmy.local/people/221,selena,gomez">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/236,alexandra,daddario"><img src="http://filmy.local/imdb/cast/nm1275259.jpg" alt="Alexandra Daddario" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Alexandra Daddario<br /><a href="http://filmy.local/people/236,alexandra,daddario">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/243,kylie,minogue"><img src="http://filmy.local/imdb/cast/nm0001541.jpg" alt="Kylie Minogue" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Kylie Minogue<br /><a href="http://filmy.local/people/243,kylie,minogue">(33)</a></p>
+									</figure>
+																	<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 180px; width: 14%">
+										<a href="http://filmy.local/people/264,tim,schaefer"><img src="http://filmy.local/assets/images/imdbnoimage.jpg" alt="Tim Schaefer" class="img-responsive"></a>
+										<p style="text-align: center; font-size: 12px; margin-top: 5px;">Tim Schaefer<br /><a href="http://filmy.local/people/264,tim,schaefer">(33)</a></p>
+									</figure>
+															</div>
+							
+													</section>
+							</div>
+							
+										
+		</div>
+		
+		
+
+	</div>
+</section>
+
+<!-- video modal -->
+<div class="modal fade" id="vid-modal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+        	<button type="button" class="modal-close" data-dismiss="modal" aria-hidden="true"> 
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-times fa-stack-1x fa-inverse"></i>
+                </span>
+            </button>
+            <div class="modal-body"> </div>
+        </div>
+     </div>
+</div>
+<!-- /video modal -->";

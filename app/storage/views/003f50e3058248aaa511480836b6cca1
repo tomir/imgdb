@@ -1,0 +1,35 @@
+
+<?php $__env->startSection('assets'); ?>
+  @parent
+  <?php echo HTML::style('assets/css/slider-single.css'); ?>
+  <?php echo HTML::style('assets/js/slick/slick.css'); ?>
+  <?php echo HTML::style('assets/js/slick/slick-theme.css'); ?>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('bodytag'); ?>
+	<body id="home" class="nav-trans animate-nav">
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('nav'); ?>
+	<?php echo $__env->make('Partials.Navbar', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('content'); ?>
+ 	<?php echo $content; ?>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('scripts'); ?>
+
+	<?php echo HTML::script('assets/js/vendor/slider.js'); ?>
+	<?php echo HTML::script('//code.jquery.com/jquery-migrate-1.2.1.min.js'); ?>
+	<?php echo HTML::script('assets/js/slick/slick.js'); ?>
+	
+	
+	<script>
+		$('.slick').slick();
+		vars.trailersPlayer = '<?php echo $options->trailersPlayer(); ?>';
+        ko.applyBindings(app.viewModels.home, $('.content')[0]);
+    </script>
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('Main.Boilerplate', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
