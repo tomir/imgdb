@@ -18,7 +18,7 @@ class MoviesController extends TitleController {
 	public function index()
 	{
 		$q = Request::query();
-
+		
 		//make index page crawlable by google
 		if (isset($q['_escaped_fragment_']))
 		{

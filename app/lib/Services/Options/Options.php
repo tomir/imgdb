@@ -91,6 +91,34 @@ class Options
 
 		return array('Action', 'Drama', 'Horror', 'Animation');
 	}
+	
+	/**
+	 * Return genres.
+	 * 
+	 * @return string
+	 */
+	public function getCountry()
+	{
+		if (isset($this->options['country']))
+		{
+			return explode('|', $this->options['country']);
+		}
+
+		return array('Action', 'Drama', 'Horror', 'Animation');
+	}
+	
+	/**
+	 * Return genres.
+	 * 
+	 * @return string
+	 */
+	public function getYear()
+	{
+		for($i=(date('Y')+1);$i>1958;$i--) {
+			$resArray[] = $i;
+		}
+		return $resArray;
+	}
 
 	/**
 	 * Return search provider.

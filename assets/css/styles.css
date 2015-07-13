@@ -10252,8 +10252,9 @@ body:last-child .blueimp-gallery > .slides > .slide > .video-content:not(.video-
     height: 322px;
   }
 }
+
 .index-pagination {
-  margin: -10px -10px 0;
+	text-align: center
 }
 .index-pagination > ul {
   list-style: none;
@@ -10261,7 +10262,6 @@ body:last-child .blueimp-gallery > .slides > .slide > .video-content:not(.video-
   padding: 0;
   border-radius: 3px;
   margin: 0 0 15px 13px;
-  float: right;
 }
 .index-pagination > ul > li {
   display: inline;

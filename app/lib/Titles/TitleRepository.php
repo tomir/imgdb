@@ -137,6 +137,11 @@ class TitleRepository extends Repository
         {
             $query = $query->hasGenres($params['genres']);
         }
+		
+		if (isset($params['country']))
+        {
+            $query = $query->hasCountry($params['country']);
+        }
 
         //filter to only ones where given actor appears in
         if (isset($params['cast']))
@@ -173,6 +178,12 @@ class TitleRepository extends Repository
         if (isset($params['after']) && $date = Helpers::parseDate($params['after']))
         {
             $query = $query->where('release_date', '>=', Helpers::parseDate($params['after']));
+        }
+		
+		 //Only return titles released before given date
+        if (isset($params['year']) )
+        {
+            $query = $query->where('year', '=', (int)($params['year']));
         }
 
         return $query->whereNotNull('poster');

@@ -142,6 +142,22 @@ class Title extends Entity
 
         return $query;
     }
+	
+	/**
+     * Restrict query by genres.
+     * 
+     * @param  Illuminate\Database\Eloquent\Builder $query 
+     * @return collection
+     */
+    public function scopeHasCountry($query, $countries = array('action'))
+    {
+        foreach ($countries as $country)
+        {
+           $query->where('country', 'LIKE', "%$country%");
+        }
+
+        return $query;
+    }
 
 
     public function actor()

@@ -66,6 +66,10 @@
 			 * @type string,
 			 */
 			genres: ko.observableArray(),
+			
+			country: ko.observableArray(),
+			
+			year: ko.observableArray(),
 
 			type: ko.observable(),
 
@@ -94,6 +98,8 @@
 		start: function(type) {
 			var self   = this,
 				genres = app.utils.getUrlParams('genre'),
+				year = app.utils.getUrlParams('year'),
+				country = app.utils.getUrlParams('country'),
 				page   = window.location.hash,
 				paginations = $('.index-pagination');
 
