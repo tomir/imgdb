@@ -60,6 +60,8 @@ Route::resource(Str::slug(trans('main.people')), 'ActorController');
 Route::post('people/unlink', array('uses' => 'ActorController@unlinkTitle', 'as' => 'people.unlink'));
 Route::post('people/knownFor', array('uses' => 'ActorController@knownFor', 'as' => 'people.knownFor'));
 
+//games
+Route::resource(Str::slug(trans('main.games')), 'GameController');
 
 //users
 Route::get('users/paginate', 'UserController@paginate');

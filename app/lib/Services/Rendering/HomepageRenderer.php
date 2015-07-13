@@ -51,12 +51,12 @@ class HomepageRenderer {
 	 */
 	public function render($name, $subname = 'Home.Content')
 	{
-		if ($this->cache->has('home.content'))
-		{
-		    $content = $this->cache->get('home.content');
-		}
-		else
-		{	
+//		if ($this->cache->has('home.content'))
+//		{
+//		    $content = $this->cache->get('home.content');
+//		}
+//		else
+//		{	
 			$slides = App::make('Lib\Slides\SlideRepository')->get();
 			$news   = App::make('Lib\News\NewsRepository')->latest(9);
 
@@ -66,7 +66,7 @@ class HomepageRenderer {
 							   ->with('categories', $this->getCategories())->render();
 				
 			$this->cache->put('home.content', $content, 2880);	
-		}
+//		}
 
 		return $this->view->make($name)->with('content', $content);			
 	}
@@ -79,9 +79,9 @@ class HomepageRenderer {
 	private function getCategories()
 	{
 		$categories = $this->catRepo->all();
-
+		
 		foreach ($categories as $k => $category)
-		{
+		{	
 			if ($category->auto_update)
 			{		
 				try {

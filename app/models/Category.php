@@ -15,13 +15,21 @@ class Category extends Entity
     {
         return $this->morphedByMany('Actor', 'categorizable');
     }
+	
+	public function game()
+    {
+        return $this->morphedByMany('Game', 'categorizable');
+    }
 
     public function getResourceTypeAttribute()
-    {
+    {	
     	if ($this->query == 'popularActors')
     	{
     		return 'actor';
     	}
+		elseif($this->query == 'topGames') {
+			return 'game';
+		}
     	else
     	{
     		return 'title';

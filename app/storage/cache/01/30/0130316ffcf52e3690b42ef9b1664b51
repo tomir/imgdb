@@ -1,4 +1,4 @@
-1436949429s:47620:"<section class="content" data-bind="playVideos">
+1436858328s:67210:"<section class="content" data-bind="playVideos">
 		<div class="jumbotron">
     <div id="slider" class="sl-slider-wrapper" data-bind="slider">
 
@@ -271,21 +271,12 @@
 					
 										<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
 
-																<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
+																<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
-
-																<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1728,faster">Faster</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/14,castle">Castle</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -307,21 +298,12 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2891574.jpg">
 
-																<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
+																<a href="http://filmy.local/series/7,ballers"><img src="http://filmy.local/imdb/posters/tt2891574.jpg" alt="Ballers" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/647,conan">Conan</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/lP-sUUUfamw" data-poster="http://filmy.local/imdb/bgs/135397movie.jpg">
-
-																<a href="http://filmy.local/movies/1,jurassic,world"><img src="http://image.tmdb.org/t/p/w342/uXZYawqUsChGSj54wcuBtEdUJbh.jpg" alt="Jurassic World" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1,jurassic,world">Jurassic World</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/7,ballers">Ballers</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -370,39 +352,30 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
+							<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
 
-																<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/579,prometheus">Prometheus</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
 
-																<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/14,castle">Castle</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
 
-																<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
+																<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/54,jericho">Jericho</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2891574.jpg">
-
-																<a href="http://filmy.local/series/7,ballers"><img src="http://filmy.local/imdb/posters/tt2891574.jpg" alt="Ballers" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/7,ballers">Ballers</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -415,21 +388,48 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
 
-																<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/579,prometheus">Prometheus</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
+							<div class="" data-source="https://www.youtube.com/embed/lP-sUUUfamw" data-poster="http://filmy.local/imdb/bgs/135397movie.jpg">
 
-																<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/1,jurassic,world"><img src="http://image.tmdb.org/t/p/w342/uXZYawqUsChGSj54wcuBtEdUJbh.jpg" alt="Jurassic World" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1,jurassic,world">Jurassic World</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
+
+																<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/54,jericho">Jericho</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
+
+																<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/647,conan">Conan</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
+
+																<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1728,faster">Faster</a></p>
 
 						</figure>
 											</div>
@@ -524,7 +524,90 @@
 			</div>
 					
 								
-								
+									<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Top Games</h2>
+				<section class="row  title-sizes" style="padding: 0 50px">
+
+
+						
+					<div class="slick" data-slick='{"slidesToShow": 7, "slidesToScroll": 7}'>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/16,charlize,theron"><img src="http://filmy.local/imdb/cast/nm0000234.jpg" alt="Charlize Theron" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Charlize Theron<br /><a href="http://filmy.local/people/16,charlize,theron">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/22,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Rosie Huntington-Whiteley<br /><a href="http://filmy.local/people/22,rosie,huntingtonwhiteley">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/61,pauley,perrette"><img src="http://filmy.local/imdb/cast/nm0005306.jpg" alt="Pauley Perrette" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Pauley Perrette<br /><a href="http://filmy.local/people/61,pauley,perrette">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/97,idris,elba"><img src="http://filmy.local/imdb/cast/17605movie.jpg" alt="Idris Elba" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Idris Elba<br /><a href="http://filmy.local/people/97,idris,elba">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/12,ty,simpkins"><img src="http://filmy.local/imdb/cast/17181movie.jpg" alt="Ty Simpkins" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ty Simpkins<br /><a href="http://filmy.local/people/12,ty,simpkins">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/14,katie,mcgrath"><img src="http://image.tmdb.org/t/p/w342/2oWeRVpm45kdx7uvhIEtcklOjkA.jpg" alt="Katie McGrath" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Katie McGrath<br /><a href="http://filmy.local/people/14,katie,mcgrath">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/30,john,cena"><img src="http://filmy.local/imdb/cast/nm1078479.jpg" alt="John Cena" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">John Cena<br /><a href="http://filmy.local/people/30,john,cena">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/32,ashley,scott"><img src="http://filmy.local/imdb/cast/nm1008709.jpg" alt="Ashley Scott" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Ashley Scott<br /><a href="http://filmy.local/people/32,ashley,scott">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/36,taylor,cole"><img src="http://filmy.local/imdb/cast/nm1543157.jpg" alt="Taylor Cole" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Taylor Cole<br /><a href="http://filmy.local/people/36,taylor,cole">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/59,mark,harmon"><img src="http://filmy.local/imdb/cast/nm0001319.jpg" alt="Mark Harmon" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Mark Harmon<br /><a href="http://filmy.local/people/59,mark,harmon">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/89,hayley,marie,norman"><img src="http://filmy.local/imdb/cast/nm1190513.jpg" alt="Hayley Marie Norman" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Hayley Marie Norman<br /><a href="http://filmy.local/people/89,hayley,marie,norman">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/96,michael,fassbender"><img src="http://filmy.local/imdb/cast/17288movie.jpg" alt="Michael Fassbender" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Michael Fassbender<br /><a href="http://filmy.local/people/96,michael,fassbender">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/131,dwayne,johnson"><img src="http://filmy.local/imdb/cast/nm0425005.jpg" alt="Dwayne Johnson" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Dwayne Johnson<br /><a href="http://filmy.local/people/131,dwayne,johnson">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/139,anabelle,acosta"><img src="http://filmy.local/imdb/cast/nm4166320.jpg" alt="Anabelle Acosta" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Anabelle Acosta<br /><a href="http://filmy.local/people/139,anabelle,acosta">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/221,selena,gomez"><img src="http://filmy.local/imdb/cast/nm1411125.jpg" alt="Selena Gomez" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Selena Gomez<br /><a href="http://filmy.local/people/221,selena,gomez">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/236,alexandra,daddario"><img src="http://filmy.local/imdb/cast/nm1275259.jpg" alt="Alexandra Daddario" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Alexandra Daddario<br /><a href="http://filmy.local/people/236,alexandra,daddario">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/243,kylie,minogue"><img src="http://filmy.local/imdb/cast/nm0001541.jpg" alt="Kylie Minogue" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Kylie Minogue<br /><a href="http://filmy.local/people/243,kylie,minogue">(33)</a></p>
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
+							<a href="http://filmy.local/people/264,tim,schaefer"><img src="http://filmy.local/assets/images/imdbnoimage.jpg" alt="Tim Schaefer" class="img-responsive"></a>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Tim Schaefer<br /><a href="http://filmy.local/people/264,tim,schaefer">(33)</a></p>
+						</figure>
+											</div>
+					
+									</section>
+			</div>
+					
 						
 		</div>
 
@@ -578,22 +661,192 @@
 		
 		<div class="col-sm-12">
 
-											
+												<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Top Movies / Tv Series</h2>
+				<section class="row  title-sizes" style="padding: 0 50px">
+
+										<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
+
+																<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/14,castle">Castle</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1399103.jpg">
+
+																<a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon"><img src="http://filmy.local/imdb/posters/tt1399103.jpg" alt="Transformers: Dark of the Moon" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon">Transformers: Dark of the Moon</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1160368.jpg">
+
+																<a href="http://filmy.local/movies/3,12,rounds"><img src="http://filmy.local/imdb/posters/tt1160368.jpg" alt="12 Rounds" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/3,12,rounds">12 Rounds</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2891574.jpg">
+
+																<a href="http://filmy.local/series/7,ballers"><img src="http://filmy.local/imdb/posters/tt2891574.jpg" alt="Ballers" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/7,ballers">Ballers</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2167202.jpg">
+
+																<a href="http://filmy.local/movies/895,getaway"><img src="http://filmy.local/imdb/posters/tt2167202.jpg" alt="Getaway" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/895,getaway">Getaway</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://prestujemy.pl/assets/images/cinema.jpg">
+
+																<a href="http://filmy.local/movies/2434,mark,zuckerberg,inside,facebook"><img src="http://filmy.local/imdb/posters/115086movie.jpg" alt="Mark Zuckerberg: Inside Facebook" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2434,mark,zuckerberg,inside,facebook">Mark Zuckerberg: Inside Facebook</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2126355.jpg">
+
+																<a href="http://filmy.local/movies/1076,san,andreas"><img src="http://filmy.local/imdb/posters/tt2126355.jpg" alt="San Andreas" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1076,san,andreas">San Andreas</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1392190.jpg">
+
+																<a href="http://filmy.local/movies/2,mad,max,fury,road"><img src="http://filmy.local/imdb/posters/tt1392190.jpg" alt="Mad Max: Fury Road" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2,mad,max,fury,road">Mad Max: Fury Road</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0448157.jpg">
+
+																<a href="http://filmy.local/movies/586,hancock"><img src="http://filmy.local/imdb/posters/tt0448157.jpg" alt="Hancock" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/586,hancock">Hancock</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
+
+																<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
+
+																<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
+
+																<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt0419946.jpg">
+
+																<a href="http://filmy.local/movies/126,the,marine"><img src="http://filmy.local/imdb/posters/tt0419946.jpg" alt="The Marine" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/126,the,marine">The Marine</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
+
+																<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/579,prometheus">Prometheus</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/lP-sUUUfamw" data-poster="http://filmy.local/imdb/bgs/135397movie.jpg">
+
+																<a href="http://filmy.local/movies/1,jurassic,world"><img src="http://image.tmdb.org/t/p/w342/uXZYawqUsChGSj54wcuBtEdUJbh.jpg" alt="Jurassic World" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1,jurassic,world">Jurassic World</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
+
+																<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/54,jericho">Jericho</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
+
+																<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/647,conan">Conan</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
+
+																<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1728,faster">Faster</a></p>
+
+						</figure>
+											</div>
+									</section>
+			</div>
+					
 								
 								
 								
-								
+									<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Born Today</h2>
+				<section class="row  title-sizes" style="padding: 0 50px">
+
+									</section>
+			</div>
+					
 								
 									<div style="padding: 15px; border: 1px solid #c3c3c3; margin-bottom: 10px;">
 				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class=""></i> Top Games</h2>
 				<section class="row  title-sizes" style="padding: 0 50px">
 
-										<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
-							<a href="http://filmy.local/people/264,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Rosie Huntington-Whiteley<br /><a href="http://filmy.local/people/22,rosie,huntingtonwhiteley">(33)</a></p>
-						</figure>
-											</div>
 									</section>
 			</div>
 					

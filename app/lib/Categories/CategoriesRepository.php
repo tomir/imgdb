@@ -16,6 +16,7 @@ class CategoriesRepository extends Repository
         'popularTitles' => array('class' => 'Lib\Titles\TitleRepository', 'method' => 'mostPopular', 'type' => 'title'),
         'latestTitles'  => array('class' => 'Lib\Titles\TitleRepository', 'method' => 'newAndUpcoming', 'type' => 'title'),
         'popularActors' => array('class' => 'Lib\Actors\ActorRepository', 'method' => 'popular', 'type' => 'actor'),
+        'topGames' => array('class' => 'Lib\Games\GameRepository', 'method' => 'popular', 'type' => 'game'),
         'topRatedTitles'=> array('class' => 'Lib\Titles\TitleRepository', 'method' => 'topRated', 'type' => 'title'),
     );
 
@@ -31,7 +32,7 @@ class CategoriesRepository extends Repository
      */
     public function all()
     {
-        return $this->model->with(array('Title', 'Actor'))->orderBy('weight', 'desc')->get();
+        return $this->model->with(array('Title', 'Actor', 'Game'))->orderBy('weight', 'desc')->get();
     }
 
     /**
@@ -44,7 +45,7 @@ class CategoriesRepository extends Repository
     protected function appendParams(array $params, $query)
     {
         //append all the params to query from base paginate method
-        return parent::appendParams($params, $query)->with(array('Title', 'Actor'));
+        return parent::appendParams($params, $query)->with(array('Title', 'Actor', 'Game'));
     }
 
     /**

@@ -1,0 +1,4 @@
+[2015-07-13 10:35:03] production.ERROR: http://filmy.local     -     exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')', expecting '('' in /var/www/filmy/app/storage/views/0005998a0c7e3713c304cdc5fcc6ffbc:156
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
