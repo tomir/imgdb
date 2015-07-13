@@ -269,7 +269,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #f2f2f3;
+  background-color: #E3E2DD;
 }
 input,
 button,
@@ -10174,9 +10174,7 @@ body:last-child .blueimp-gallery > .slides > .slide > .video-content:not(.video-
   vertical-align: middle;
   padding-top: 16px;
 }
-#titles-index {
-  padding-top: 120px;
-}
+
 #titles-index .new-button {
   padding: 9px 14px;
   border-radius: 3px;

@@ -1,32 +1,31 @@
-@extends('Main.Boilerplate')
 
-@section('bodytag')
+<?php $__env->startSection('bodytag'); ?>
 	<body id="titles-index">
-@stop
+<?php $__env->stopSection(); ?>
 
-@section('assets')
+<?php $__env->startSection('assets'); ?>
 	@parent
 
   <meta name="fragment" content="!">
-  <meta name="title" content="{{ trans('main.meta title') }}">
-  <meta name="description" content="{{ trans('main.meta description') }}">
-  <meta name="keywords" content="{{ trans('main.meta keywords') }}">
+  <meta name="title" content="<?php echo trans('main.meta title'); ?>">
+  <meta name="description" content="<?php echo trans('main.meta description'); ?>">
+  <meta name="keywords" content="<?php echo trans('main.meta keywords'); ?>">
   
-	{{ HTML::style('assets/css/pikaday.css') }}
-@stop
+	<?php echo HTML::style('assets/css/pikaday.css'); ?>
+<?php $__env->stopSection(); ?>
 
-@section('content')
+<?php $__env->startSection('content'); ?>
 
   	<div class="container" id="content">
 
-  		@include('Titles.Partials.FilterBar')
+  		<?php echo $__env->make('Titles.Partials.FilterBar', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
 
-        {{ Hooks::renderHtml('Titles.Index.UnderFilters') }}
+        <?php echo Hooks::renderHtml('Titles.Index.UnderFilters'); ?>
 
         <div class="clearfix">
-            @if(Helpers::hasAccess('titles.edit'))
-                <a class="btn new-button btn-primary pull-left" href="{{ Request::url().'/create' }}">{{ trans('dash.createNew') }}</a>
-            @endif
+            <?php if(Helpers::hasAccess('titles.edit')): ?>
+                <a class="btn new-button btn-primary pull-left" href="<?php echo Request::url().'/create'; ?>"><?php echo trans('dash.createNew'); ?></a>
+            <?php endif; ?>
             <div class="index-pagination"></div>
         </div>
 
@@ -48,7 +47,7 @@
 						<p style="text-align: right"></p>
 						<p style="text-align: right"><a href=""><img src="/assets/images/add_to_watchlist.png" style="margin-right: 10px;"></a><a href=""><img src="/assets/images/trailer.png"></a></p>
 					</div>
-					{{ Hooks::renderHtml('Titles.Index.ForEachMovie') }}
+					<?php echo Hooks::renderHtml('Titles.Index.ForEachMovie'); ?>
 					<div style="clear: both"></div>
                 </div>
   			</figure>
@@ -61,8 +60,10 @@
 
 	</div>
 
-@stop
+<?php $__env->stopSection(); ?>
 
-@section('scripts')
+<?php $__env->startSection('scripts'); ?>
 	<script>app.viewModels.titles.index.start('<?php echo $type; ?>');</script>
-@stop
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('Main.Boilerplate', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
