@@ -1,4 +1,4 @@
-1436949429s:47620:"<section class="content" data-bind="playVideos">
+1436951698s:50792:"<section class="content" data-bind="playVideos">
 		<div class="jumbotron">
     <div id="slider" class="sl-slider-wrapper" data-bind="slider">
 
@@ -271,48 +271,21 @@
 					
 										<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
 
-																<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
+																<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/54,jericho">Jericho</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
 
-																<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
+																<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1728,faster">Faster</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1399103.jpg">
-
-																<a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon"><img src="http://filmy.local/imdb/posters/tt1399103.jpg" alt="Transformers: Dark of the Moon" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon">Transformers: Dark of the Moon</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1160368.jpg">
-
-																<a href="http://filmy.local/movies/3,12,rounds"><img src="http://filmy.local/imdb/posters/tt1160368.jpg" alt="12 Rounds" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/3,12,rounds">12 Rounds</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
-
-																<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/647,conan">Conan</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/14,castle">Castle</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -322,15 +295,6 @@
 								
 							</div>
 							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1,jurassic,world">Jurassic World</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2167202.jpg">
-
-																<a href="http://filmy.local/movies/895,getaway"><img src="http://filmy.local/imdb/posters/tt2167202.jpg" alt="Getaway" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/895,getaway">Getaway</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -361,6 +325,24 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
+
+																<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0317740.jpg">
+
+																<a href="http://filmy.local/movies/598,the,italian,job"><img src="http://filmy.local/imdb/posters/tt0317740.jpg" alt="The Italian Job" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/598,the,italian,job">The Italian Job</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
 							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0448157.jpg">
 
 																<a href="http://filmy.local/movies/586,hancock"><img src="http://filmy.local/imdb/posters/tt0448157.jpg" alt="Hancock" class="img-responsive"></a>
@@ -370,30 +352,12 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
 
-																<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
+																<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/579,prometheus">Prometheus</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1219024.jpg">
-
-																<a href="http://filmy.local/series/14,castle"><img src="http://filmy.local/imdb/posters/tt1219024.jpg" alt="Castle" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/14,castle">Castle</a></p>
-
-						</figure>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0805663.jpg">
-
-																<a href="http://filmy.local/series/54,jericho"><img src="http://filmy.local/imdb/posters/tt0805663.jpg" alt="Jericho" class="img-responsive"></a>
-								
-							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/54,jericho">Jericho</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
@@ -406,6 +370,33 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1446714.jpg">
+
+																<a href="http://filmy.local/movies/579,prometheus"><img src="http://filmy.local/imdb/posters/tt1446714.jpg" alt="Prometheus" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/579,prometheus">Prometheus</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1160368.jpg">
+
+																<a href="http://filmy.local/movies/3,12,rounds"><img src="http://filmy.local/imdb/posters/tt1160368.jpg" alt="12 Rounds" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/3,12,rounds">12 Rounds</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt1637574.jpg">
+
+																<a href="http://filmy.local/series/647,conan"><img src="http://filmy.local/imdb/posters/tt1637574.jpg" alt="Conan" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/647,conan">Conan</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
 							<div class="" data-source="https://www.youtube.com/embed/UKY3scPIMd8" data-poster="http://filmy.local/imdb/bgs/tt0419946.jpg">
 
 																<a href="http://filmy.local/movies/126,the,marine"><img src="http://filmy.local/imdb/posters/tt0419946.jpg" alt="The Marine" class="img-responsive"></a>
@@ -415,21 +406,30 @@
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="https://www.youtube.com/embed/je73b_9JdR0" data-poster="http://filmy.local/imdb/bgs/87101movie.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1433108.jpg">
 
-																<a href="http://filmy.local/movies/2907,terminator,genisys"><img src="http://filmy.local/imdb/posters/87101movie.jpg" alt="Terminator Genisys" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/1728,faster"><img src="http://filmy.local/imdb/posters/tt1433108.jpg" alt="Faster" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/2907,terminator,genisys">Terminator Genisys</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1728,faster">Faster</a></p>
 
 						</figure>
 												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
-							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt0364845.jpg">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt2167202.jpg">
 
-																<a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service"><img src="http://filmy.local/imdb/posters/tt0364845.jpg" alt="NCIS: Naval Criminal Investigative Service" class="img-responsive"></a>
+																<a href="http://filmy.local/movies/895,getaway"><img src="http://filmy.local/imdb/posters/tt2167202.jpg" alt="Getaway" class="img-responsive"></a>
 								
 							</div>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/series/23,ncis,naval,criminal,investigative,service">NCIS: Naval Criminal Investigative Service</a></p>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/895,getaway">Getaway</a></p>
+
+						</figure>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div class="" data-source="" data-poster="http://filmy.local/imdb/bgs/tt1399103.jpg">
+
+																<a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon"><img src="http://filmy.local/imdb/posters/tt1399103.jpg" alt="Transformers: Dark of the Moon" class="img-responsive"></a>
+								
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/movies/1988,transformers,dark,of,the,moon">Transformers: Dark of the Moon</a></p>
 
 						</figure>
 											</div>
@@ -531,40 +531,20 @@
 		<!-- latest news-->
 		<div class="col-sm-9" id="news-container">
 			<div style="border: 1px solid #c3c3c3; padding: 15px;">
-				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i> hot news</h2>
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i></h2>
 
-				<ul class="list-unstyled">
-					
-					
-					<li>
-						<figure class="pretty-figure" style="height: 82px; margin-bottom: 0px">
-							<div style="float:left; padding: 0;" class="col-sm-3">
-								<a href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3"><img style="height: 82px" src="http://1.fwcdn.pl/an/49468/70226_1.10.jpg" alt="Director of 'Survival' behind the camera 'Bad Boys 3'?" class="img-responsive"></a>
-							</div>
-							<div style="float:left; padding: 0;" class="col-sm-9">
-								<figcaption style="text-align: left; white-space: normal; height: 82px; max-height: 82px; line-height: 15px;">
-									<a style="color: #00a2e8"; href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3">Director of 'Survival' behind the camera 'Bad Boys 3'?</a>
-									<br /><span style="font-weight: normal; font-size: 11px">As reported by the portal Coming Soon, in Sony are continuing to work on the third part of the &quot;Bad Boys.&quot; Because Michael Bay does not sit on the bench again the director, the record company wanted to replace him Joe Carnahan (&quot;The A-Team,&quot; &quot;Survival&quo...... 	<a style="color: #00a2e8"; href="http://filmy.local/news/2,director,of,survival,behind,the,camera,bad,boys,3">see more</a></span>
-								</figcaption>
-							</div>
-						</figure>
-					</li>
-					
-					
-					<li>
-						<figure class="pretty-figure" style="height: 82px; margin-bottom: 0px">
-							<div style="float:left; padding: 0;" class="col-sm-3">
-								<a href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich"><img style="height: 82px" src="http://milkthefranchise.com/wp-content/uploads/Article%20Graphics/Jason-statham.jpg" alt="Jason Statham krytycznie o filmach superbohaterskich" class="img-responsive"></a>
-							</div>
-							<div style="float:left; padding: 0;" class="col-sm-9">
-								<figcaption style="text-align: left; white-space: normal; height: 82px; max-height: 82px; line-height: 15px;">
-									<a style="color: #00a2e8"; href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich">Jason Statham krytycznie o filmach superbohaterskich</a>
-									<br /><span style="font-weight: normal; font-size: 11px">Jason Statham&nbsp;nie będzie miał łatwego życia ani z fanami filmowego uniwersum Marvela, ani z decydentami z Marvel Studios. Ostatnio pojawiły się informacje, że studio chce zatrudnić aktora w roli czarnego charakteru, Bullseye&#39;a, w kolejnym sezonie serialu&nbsp;&qu...... 	<a style="color: #00a2e8"; href="http://filmy.local/news/1,jason,statham,krytycznie,o,filmach,superbohaterskich">see more</a></span>
-								</figcaption>
-							</div>
-						</figure>
-					</li>
-									</ul>
+				<div style="margin-left: 15px;">
+					<span style="font-weight: bold; margin-right: 65px;">New movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 30px;">Upcoming movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 57px;">Relase games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 25px;">Upcomming games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
 			</div>
 		</div>
 		<!-- /latest news-->
@@ -576,7 +556,7 @@
 			</div>
 		</div>
 		
-		<div class="col-sm-12">
+		<div class="col-sm-12" style="margin-top: 15px;">
 
 											
 								
@@ -589,15 +569,44 @@
 				<section class="row  title-sizes" style="padding: 0 50px">
 
 										<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
-												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
-							<a href="http://filmy.local/people/264,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;">Rosie Huntington-Whiteley<br /><a href="http://filmy.local/people/22,rosie,huntingtonwhiteley">(33)</a></p>
+												<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div>
+								<a href="http://filmy.local/maingame/22,rosie,huntingtonwhiteley"><img src="http://filmy.local/imdb/cast/nm2492819.jpg" alt="Rosie Huntington-Whiteley" class="img-responsive"></a>
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="http://filmy.local/maingame/22,rosie,huntingtonwhiteley">Rosie Huntington-Whiteley</a></p>
 						</figure>
 											</div>
 									</section>
 			</div>
 					
 						
+		</div>
+		
+		<div class="col-sm-9" id="news-container">
+			<div style="border: 1px solid #c3c3c3; padding: 15px;">
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i> hot news</h2>
+
+				<div style="margin-left: 15px;">
+					<span style="font-weight: bold; margin-right: 65px;">New movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 30px;">Upcoming movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 57px;">Relase games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 25px;">Upcomming games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+			</div>
+		</div>
+		<!-- /latest news-->
+
+		<div class="col-sm-3" style="padding-left: 0px; margin-bottom: 15px;">
+			<div style="padding: 15px; border: 1px solid #c3c3c3">
+				<img src="/assets/images/imgdb_onmobile.png" class="img-responsive">
+				<span style="font-size: 11px;">As reported by the portal Coming Soon, in Sony are continuing to work on the third part of the "Bad Boys." Because Michael Bay does not sit on the bench again </span>
+			</div>
 		</div>
 
 	</div>

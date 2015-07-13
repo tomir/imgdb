@@ -105,32 +105,20 @@
 		<!-- latest news-->
 		<div class="col-sm-9" id="news-container">
 			<div style="border: 1px solid #c3c3c3; padding: 15px;">
-				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i> {{ trans('main.latest news') }}</h2>
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i></h2>
 
-				<ul class="list-unstyled">
-					@foreach($news as $k => $item)
-
-					@if ($k == 4)
-					@if ($ad = $options->getHomeNewsAd())
-					<div id="ad">{{ $ad }}</div>
-					@endif
-					@endif
-
-					<li>
-						<figure class="pretty-figure" style="height: 82px; margin-bottom: 0px">
-							<div style="float:left; padding: 0;" class="col-sm-3">
-								<a href="{{ Helpers::url($item->title, $item->id, 'news') }}"><img style="height: 82px" src="{{ $item->image }}" alt="{{ $item->title }}" class="img-responsive"></a>
-							</div>
-							<div style="float:left; padding: 0;" class="col-sm-9">
-								<figcaption style="text-align: left; white-space: normal; height: 82px; max-height: 82px; line-height: 15px;">
-									<a style="color: #00a2e8"; href="{{ Helpers::url($item->title, $item->id, 'news') }}">{{ $item->title }}</a>
-									<br /><span style="font-weight: normal; font-size: 11px">{{ Helpers::shrtString($item->body, 280) }}... 	<a style="color: #00a2e8"; href="{{ Helpers::url($item->title, $item->id, 'news') }}">see more</a></span>
-								</figcaption>
-							</div>
-						</figure>
-					</li>
-					@endforeach
-				</ul>
+				<div style="margin-left: 15px;">
+					<span style="font-weight: bold; margin-right: 65px;">New movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 30px;">Upcoming movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 57px;">Relase games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 25px;">Upcomming games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
 			</div>
 		</div>
 		<!-- /latest news-->
@@ -142,7 +130,7 @@
 			</div>
 		</div>
 		
-		<div class="col-sm-12">
+		<div class="col-sm-12" style="margin-top: 15px;">
 
 			@if($categories->count())
 			@foreach($categories as $category)
@@ -154,9 +142,11 @@
 					@if ($category->name == 'Top Games')
 					<div class="slick" data-slick='{"slidesToShow": 6, "slidesToScroll": 6}'>
 						@foreach($category->game->slice(0, $category->limit) as $game)
-						<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="max-height: 200px; width: 14%; margin-bottom: 0px;">
-							<a href="{{ Helpers::url($game->name, $actor->id, 'people') }}"><img src="{{ $game->image }}" alt="{{ $game->name }}" class="img-responsive"></a>
-							<p style="text-align: center; font-size: 12px; margin-top: 5px;">{{ $game->name }}<br /><a href="{{ Helpers::url($game->name, $game->id, 'people') }}">(33)</a></p>
+						<figure class="col-lg-1 col-md-2 col-sm-3 pretty-figure" style="min-height: 200px; margin-bottom: 0px;">
+							<div>
+								<a href="{{ Helpers::url($game->name, $game->id, 'game') }}"><img src="{{ $game->image }}" alt="{{ $game->name }}" class="img-responsive"></a>
+							</div>
+							<p style="text-align: center; font-size: 12px; margin-top: 5px;"><a href="{{ Helpers::url($game->name, $game->id, 'game') }}">{{ $game->name }}</a></p>
 						</figure>
 						@endforeach
 					</div>
@@ -169,6 +159,33 @@
 			<h4>Create categories you want to display from <strong>dashboard > categories</strong> page.</h4>
 			@endif
 
+		</div>
+		
+		<div class="col-sm-9" id="news-container">
+			<div style="border: 1px solid #c3c3c3; padding: 15px;">
+				<h2 class="heading" style="margin-bottom: 0; background: none; padding-top: 0px;"><i class="fa fa-bullhorn"></i> {{ trans('main.latest news') }}</h2>
+
+				<div style="margin-left: 15px;">
+					<span style="font-weight: bold; margin-right: 65px;">New movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 30px;">Upcoming movies</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 57px;">Relase games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a> 
+				</div>
+				<div style="margin-left: 15px; margin-top: 20px">
+					<span style="font-weight: bold; margin-right: 25px;">Upcomming games</span> <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>, <a href="">Song of the Sea</a>
+				</div>
+			</div>
+		</div>
+		<!-- /latest news-->
+
+		<div class="col-sm-3" style="padding-left: 0px; margin-bottom: 15px;">
+			<div style="padding: 15px; border: 1px solid #c3c3c3">
+				<img src="/assets/images/imgdb_onmobile.png" class="img-responsive">
+				<span style="font-size: 11px;">As reported by the portal Coming Soon, in Sony are continuing to work on the third part of the "Bad Boys." Because Michael Bay does not sit on the bench again </span>
+			</div>
 		</div>
 
 	</div>

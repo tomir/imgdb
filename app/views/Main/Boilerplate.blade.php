@@ -54,13 +54,6 @@
             <section id="top" class="clearfix">
 
                 <div class="col-sm-11 col-md-8 col-sm-offset-1 col-md-offset-3 col-lg-offset-4">
-                    <div class="footer-heading clearfix hidden-xs">
-                            <a href="{{ route('home') }}">
-                                <img src="{{ $options->getLogo() }}">
-                            </a>    
-                        <h2 class="col-md-9 col-sm-8"> - {{ trans('main.footerSlogan') }}</h2>
-                    </div>
-                    
                     <section id="index">
                         <ul class="list-inline list-unstyled">
                             <li><a href="{{ url('feed/'.Str::slug(trans('main.newAndUpcoming'))) }}">{{ trans('main.moviesFeed') }}</a></li>
@@ -91,8 +84,8 @@
                     </div>
                 </div>
             </section>
-            <section id="bottom" class="clearfix">
-                <div class="col-sm-6" id="copyright">{{ trans('main.copyright') }} &#169; <span class="brand">{{ $options->getSiteName() }}</span> {{ Carbon\Carbon::now()->year }}</div>
+            <section id="bottom" class="clearfix" style="background: #E3E2DD; color: #000">
+                <div class="col-sm-6" id="copyright" style=" color: #000">&#169; <span class="brand">{{ $options->getSiteName() }}</span> Enter Ltd. Group {{ Carbon\Carbon::now()->year }}</div>
                 <ul id="legal" class="list-inline list-unstyled col-sm-6">
                     <li><a href="{{ route('privacy') }}">{{ trans('main.privacy') }}</a> | </li>
                     <li><a href="{{ route('tos') }}">{{ trans('main.tos') }}</a> | </li>

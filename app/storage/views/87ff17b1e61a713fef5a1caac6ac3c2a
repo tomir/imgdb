@@ -54,13 +54,6 @@
             <section id="top" class="clearfix">
 
                 <div class="col-sm-11 col-md-8 col-sm-offset-1 col-md-offset-3 col-lg-offset-4">
-                    <div class="footer-heading clearfix hidden-xs">
-                            <a href="<?php echo route('home'); ?>">
-                                <img src="<?php echo $options->getLogo(); ?>">
-                            </a>    
-                        <h2 class="col-md-9 col-sm-8"> - <?php echo trans('main.footerSlogan'); ?></h2>
-                    </div>
-                    
                     <section id="index">
                         <ul class="list-inline list-unstyled">
                             <li><a href="<?php echo url('feed/'.Str::slug(trans('main.newAndUpcoming'))); ?>"><?php echo trans('main.moviesFeed'); ?></a></li>
@@ -91,8 +84,8 @@
                     </div>
                 </div>
             </section>
-            <section id="bottom" class="clearfix">
-                <div class="col-sm-6" id="copyright"><?php echo trans('main.copyright'); ?> &#169; <span class="brand"><?php echo $options->getSiteName(); ?></span> <?php echo Carbon\Carbon::now()->year; ?></div>
+            <section id="bottom" class="clearfix" style="background: #E3E2DD; color: #000">
+                <div class="col-sm-6" id="copyright" style=" color: #000">&#169; <span class="brand"><?php echo $options->getSiteName(); ?></span> Enter Ltd. Group <?php echo Carbon\Carbon::now()->year; ?></div>
                 <ul id="legal" class="list-inline list-unstyled col-sm-6">
                     <li><a href="<?php echo route('privacy'); ?>"><?php echo trans('main.privacy'); ?></a> | </li>
                     <li><a href="<?php echo route('tos'); ?>"><?php echo trans('main.tos'); ?></a> | </li>
